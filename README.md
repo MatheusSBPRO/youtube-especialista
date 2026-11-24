@@ -1,5 +1,8 @@
 # youtube-especialista
 
+> **Este repositório mudou para o [kit-trafego-ia](https://github.com/MatheusSBPRO/kit-trafego-ia/tree/main/ferramentas/youtube-especialista).** A versão daqui continua funcionando, mas não recebe mais atualização. Correções, novidades, issues e PRs agora vão para [kit-trafego-ia/ferramentas/youtube-especialista](https://github.com/MatheusSBPRO/kit-trafego-ia/tree/main/ferramentas/youtube-especialista).
+
+
 Skill do [Claude Code](https://claude.com/claude-code) para montar e operar o canal de YouTube de um
 especialista (expert de infoproduto): Shorts a partir dos Reels que já performaram, palavra no
 comentário com robô que responde, identidade do canal, vídeo longo e leitura.
